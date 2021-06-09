@@ -7,7 +7,7 @@
 - Cost
 
 ## Types of Cloud
-
+![Cloud types](/pictures/cloud_diagram.jpeg)
 ### Public Cloud
 - 100% of the infrastructure or application is migrated to the cloud.
 - The organisation relies on the internet or cloud computing services to access the information.
