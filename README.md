@@ -1,20 +1,20 @@
 # DevOps Interview Questions & Answers
 
 ## Benefits of DevOps
-- Ease of use
-- Flexibility
-- Robustness
-- Cost
+- **Ease of use** : reporting and monitoring of changes helps to keep everyone in process well informed. Each to deploy and test code with automated tools. 
+- **Flexibility** : integrates well with different programming languages and tools and able to adapt to changing needs with use of version control system.
+- **Robustness** : automated processes and tools used within pipeline. Information and resources shared enabling higher quality of application to be built. 
+- **Cost effectiveness** : faster deployment avoids loss of revenue, reduced cost of defects as deployment can be done in iterations which are easier to test and fix.
 
 ## Types of Cloud
-![Cloud types](./images/cloud.PNG)
+![Cloud types](./images/cloud.png)
 ### Public Cloud
 - 100% of the infrastructure or application is migrated to the cloud.
 - The organisation relies on the internet or cloud computing services to access the information.
 - Small start-ups may use this model as it allows for flexibility, scalability
 - Removes the roadblock of costly and time-consuming processes
 
--**Example**
+- **Example**
 Office 365 for emails, Microsoft teams for on demand communication, Microsoft Azure for application deployment are examples where the public cloud will be used.
 
 ### Hybrid Cloud
