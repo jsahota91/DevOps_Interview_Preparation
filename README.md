@@ -14,7 +14,7 @@
 - Small start-ups may use this model as it allows for flexibility, scalability
 - Removes the roadblock of costly and time-consuming processes
 
-- **Example**
+- **Example:**
 Office 365 for emails, Microsoft teams for on demand communication, Microsoft Azure for application deployment are examples where the public cloud will be used.
 
 ### Hybrid Cloud
@@ -22,7 +22,7 @@ Office 365 for emails, Microsoft teams for on demand communication, Microsoft Az
 - Confidential data can remain on-premises to comply with regulations such as GDPR, to ensure high security of information
 - Public information/ data can be migrated to the cloud
 
--**Example**
+- **Example:**
 Banks may adopt hybrid cloud model, confidential information about users such as personal details can be stored privately/ on-premises and information about types of bank accounts, how to apply for a loan can be made publically available on the public cloud. This restricts access to certain types of information and avoids security breaches if data were to leak.
 
  
@@ -33,10 +33,11 @@ Banks may adopt hybrid cloud model, confidential information about users such as
 - Resources are accessed on-site, not using the internet, making them quickly accessible.
 - This is where data-privacy is taken very seriously.
 
--**Example** 
+- **Example:** 
 Google, Amazon, The government will have their own data centres because data privacy is a priority
 
 ## Types of Architecture
+![Architecture types](./images/architecture.png)
 
 ### Monolith Architecture
 - Typically used for smaller application where you have the database, backend, frontend composed altogether as a unifed model.
